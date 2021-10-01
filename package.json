@@ -1,7 +1,7 @@
 {
-  "name": "monsters-rolodex",
+  "name": "user-rolodex",
   "version": "0.1.0",
-  "homepage": "https://joshmwakio.github.io/userrolodex",
+  "homepage": "https://joshmwakio.github.io/user-rolodex",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.3.0",
