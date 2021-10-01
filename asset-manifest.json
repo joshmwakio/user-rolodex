@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/user-rolodex/static/css/main.ca17049f.chunk.css",
+    "main.js": "/user-rolodex/static/js/main.4cc3379e.chunk.js",
+    "main.js.map": "/user-rolodex/static/js/main.4cc3379e.chunk.js.map",
+    "runtime-main.js": "/user-rolodex/static/js/runtime-main.26e4bee6.js",
+    "runtime-main.js.map": "/user-rolodex/static/js/runtime-main.26e4bee6.js.map",
+    "static/js/2.5fe72323.chunk.js": "/user-rolodex/static/js/2.5fe72323.chunk.js",
+    "static/js/2.5fe72323.chunk.js.map": "/user-rolodex/static/js/2.5fe72323.chunk.js.map",
+    "static/js/3.2bd828f9.chunk.js": "/user-rolodex/static/js/3.2bd828f9.chunk.js",
+    "static/js/3.2bd828f9.chunk.js.map": "/user-rolodex/static/js/3.2bd828f9.chunk.js.map",
+    "index.html": "/user-rolodex/index.html",
+    "static/css/main.ca17049f.chunk.css.map": "/user-rolodex/static/css/main.ca17049f.chunk.css.map",
+    "static/js/2.5fe72323.chunk.js.LICENSE.txt": "/user-rolodex/static/js/2.5fe72323.chunk.js.LICENSE.txt",
+    "static/media/Logo.927c74a4.svg": "/user-rolodex/static/media/Logo.927c74a4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26e4bee6.js",
+    "static/js/2.5fe72323.chunk.js",
+    "static/css/main.ca17049f.chunk.css",
+    "static/js/main.4cc3379e.chunk.js"
+  ]
+}
